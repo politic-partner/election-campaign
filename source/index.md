@@ -15,7 +15,7 @@ myst:
 :hidden:
 volunteer/index
 staff/index
-reference
+reference/index
 ```
 
 # 日本の選挙運動

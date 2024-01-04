@@ -32,6 +32,7 @@ language = 'ja'
 
 myst_enable_extensions = [
     'attrs_inline',
+    'attrs_block',
     'colon_fence',
     'deflist',
     'substitution',
@@ -44,6 +45,14 @@ myst_substitutions = {
     'github_issues': f'[Issues](https://github.com/{github_user}/{github_repo}/issues)',
     'github_pulls': f'[プルリクエスト](https://github.com/{github_user}/{github_repo}/pulls)',
     'spread_campaign_research_questions': '[選挙調査質問集](https://docs.google.com/spreadsheets/d/1mG2GSFCkB9EkHJ0VOBqDsBvKg5BNzScpOYgtIZYoRkU/edit?usp=sharing)',
+    'political_campaign_planning_manual_en_warning': """:::{admonition} **Warning** This Manual Cannot Be Directly Applied to Japanese Electoral Campaigns
+:class: warning
+For more details, please see [notes](index).
+:::""",
+    'political_campaign_planning_manual_ja_warning': """:::{admonition} **警告** このマニュアルを日本の選挙運動へ直接適用することはできません。
+:class: warning
+詳しくは[注意点](index)を参照してください。
+:::""",
 }
 
 myst_heading_anchors = 3

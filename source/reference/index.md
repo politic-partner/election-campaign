@@ -1,4 +1,9 @@
 # 参考文献
+```{toctree}
+:hidden:
+political-campaign-planning-manual-en/index
+political-campaign-planning-manual-ja/index
+```
 
 ## 【Q＆A】今さら聞けないネット選挙の法律で定められたルールを解説します！【保存版】 [^今さら聞けないネット選挙の法律で定められたルールを解説します]
 [^今さら聞けないネット選挙の法律で定められたルールを解説します]: [【Q＆A】今さら聞けないネット選挙の法律で定められたルールを解説します！【保存版】](https://go2senkyo.com/articles/2021/06/27/60038.html)
@@ -7,11 +12,11 @@
 しかし、ネット選挙は、うまく活用できれば街頭演説等のアナログな選挙運動よりも候補者の情報を多くの人に伝えられる可能性を秘めています。
 
 ## Political Campaign Planning Manual, A Step By Step Guide to Winning Elections [^political-campaign-planning-manual]
-[^political-campaign-planning-manual]: [Political Campaign Planning Manual, A Step By Step Guide to Winning Elections -  2003/01/01 National Democratic Institute for International Affairs](https://www.ndi.org/node/23950)
+[^political-campaign-planning-manual]: [Political Campaign Planning Manual, A Step By Step Guide to Winning Elections -  2003/01/01 National Democratic Institute for International Affairs](political-campaign-planning-manual-en/index)
 
 [National Democratic Institute (NDI)](https://www.ndi.org/)の最も人気のあるマニュアルの一つである本書は、1992 年以来 NDI のトレーナーやコンサルタントがロシアや旧ソビエト連邦諸国で使用してきたアイデアや資料をまとめたものである。
-このマニュアルは、政党や候補者が効果的かつ戦略的な選挙キャンペーンを展開するのを支援することを目的としている。
-どのような状況下でもキャンペーンを行うための実践的な手引きとなる。
+このマニュアルは、政党や候補者が効果的かつ戦略的な選挙運動を展開するのを支援することを目的としている。
+どのような状況下でも選挙運動を行うための実践的な手引きとなる。
 
 ## 地方選挙実践マニュアル―第３次改訂版― [^地方選挙実践マニュアル]
 [^地方選挙実践マニュアル]: [地方選挙実践マニュアル―第３次改訂版― 単行本（ソフトカバー）– 2022/12/16 三浦 博史 (著) ¥2,420](https://www.amazon.co.jp/dp/4474079779)

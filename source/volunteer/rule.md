@@ -9,7 +9,7 @@
 ```
 
 (campaign-season-activities)=
-## 選挙運動期間の活動 
+## 選挙運動期間の活動
 
 (campaign-season-political-activities)=
 ## 選挙運動期間の政治活動
