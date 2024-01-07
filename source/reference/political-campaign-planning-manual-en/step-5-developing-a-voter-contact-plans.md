@@ -455,7 +455,6 @@ Make a list of all the methods you have decided to use in your campaign and try 
   - 
   - 
   - 
-
 :::
 
 ## Creating Campaign Literature
