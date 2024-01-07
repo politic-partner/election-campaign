@@ -41,7 +41,7 @@
 (political-campaign-planning-manual-ja-term-campaign-methods)=
 - **選挙運動手法** - 有権者の信頼を勝ち取るための秘策や洗練された技術は存在しない。唯一あるのは多大な努力と、このマニュアルで概説されている手法のみである。
 (political-campaign-planning-manual-ja-term-campaign-plan)=
-- **選挙運動計画** - 重要なリサーチ、ターゲティング、メッセージ、戦略をまとめた書面による文書。選挙運動の初めに作成され、選挙運動が投票日に至るまでのステップ・バイ・ステップの概要を提供するべきである。
+- **選挙運動計画** - 重要な調査結果、ターゲティング、メッセージ、戦略をまとめた書面による文書。選挙運動の初めに作成され、選挙運動が投票日に至るまでのステップ・バイ・ステップの概要を提供するべきである。
 (political-campaign-planning-manual-ja-term-campaign-professionals)=
 - **選挙運動専門家** - 過去の多くの選挙運動で働いた経験を持ち、しばしば報酬を受けて選挙運動に従事する人々。これらの人々は有権者を説得し、当選するために必要な多大な努力を理解している。秘策や近道は存在しない。
 (political-campaign-planning-manual-ja-term-campaign-resources)=
@@ -51,7 +51,7 @@
 (political-campaign-planning-manual-ja-term-candidate)=
 - **候補者** - 特定の選出された地位に立候補する人物。候補者の役割は、有権者や選挙運動への潜在的な寄付者と会い、彼らに支持を求めることである。候補者は選挙運動マネージャーであることはできず、選挙運動の戦略策定と日々の運営を担当することはできない。
 (political-campaign-planning-manual-ja-term-candidate-research)=
-- **候補者リサーチ** - 選挙運動が候補者に関して集めることができる、良い情報も悪い情報も含めたすべての情報。これは選挙運動の初めに行われるべき全体的なリサーチの一部である。[リサーチ](#political-campaign-planning-manual-ja-term-research)を参照。
+- **候補者調査** - 選挙運動が候補者に関して集めることができる、良い情報も悪い情報も含めたすべての情報。これは選挙運動の初めに行われるべき全体的な調査の一部である。[調査](#political-campaign-planning-manual-ja-term-research)を参照。
 (political-campaign-planning-manual-ja-term-canvass)=
 - **遊説** - 戸別訪問を行い、家から家へ、アパートからアパートへ、有権者から有権者へと移動し、選挙運動のメッセージを伝え、有権者を説得し、支持者を特定する活動。[戸別訪問](#political-campaign-planning-manual-ja-term-door-to-door)を参照。
 (political-campaign-planning-manual-ja-term-characteristics-of-message)=
@@ -89,7 +89,7 @@
 (political-campaign-planning-manual-ja-term-district)=
 - **地区** - 選挙が行われる特定の地理的エリアであり、選挙後には勝者が代表を務める。
 (political-campaign-planning-manual-ja-term-district-research)=
-- **地区リサーチ** - 選挙運動が地区に関して集めることができるすべての情報。これは選挙運動の初めに行われるべき全体的なリサーチの一部である。[リサーチ](#political-campaign-planning-manual-ja-term-research)を参照。
+- **地区調査** - 選挙運動が地区に関して集めることができるすべての情報。これは選挙運動の初めに行われるべき全体的な調査の一部である。[調査](#political-campaign-planning-manual-ja-term-research)を参照。
 (political-campaign-planning-manual-ja-term-door-to-door)=
 - **戸別訪問** - 候補者またはボランティアが一軒一軒の家やアパートを訪れ、直接有権者と話をする有権者接触の手法。候補者自身が行う場合、これは票を獲得する最も説得力のある手法の一つであるが、時間と労力を要する。
 (political-campaign-planning-manual-ja-term-down-ballot)=
@@ -212,7 +212,7 @@
 (political-campaign-planning-manual-ja-term-opponents)=
 - **対立候補** - 同じ役職に立候補し、あなたの候補者と同じ投票用紙に名前が載っている他の候補者たち。
 (political-campaign-planning-manual-ja-term-opposition-research)=
-- **対立候補リサーチ** - 対立候補リサーチは、選挙運動が有力なすべての対立候補者に関して集めることができる、良い情報も悪い情報も含めたすべての情報である。これは選挙運動の初めに行われるべき全体的なリサーチの一部である。[リサーチ](#political-campaign-planning-manual-ja-term-research)を参照。
+- **対立候補調査** - 対立候補調査は、選挙運動が有力なすべての対立候補者に関して集めることができる、良い情報も悪い情報も含めたすべての情報である。これは選挙運動の初めに行われるべき全体的な調査の一部である。[調査](#political-campaign-planning-manual-ja-term-research)を参照。
 
 ## P
 (political-campaign-planning-manual-ja-term-paid-media)=
@@ -320,7 +320,7 @@
 - **反応的選挙運動** - 政治状況や選挙運動中に起こる出来事に対応してリソースを使う選挙運動。計画がなく、常に後手に回り、議題を設定できない選挙運動である。[積極的選挙運動](#political-campaign-planning-manual-ja-term-proactive-campaign)を参照。
 
 (political-campaign-planning-manual-ja-term-research)=
-- **リサーチ** - 選挙運動がこの選挙に影響を与えるすべての情報を見つけ出すこと。これには選挙規則、地区、有権者、過去の選挙、今回の選挙、候補者、および有力な対立候補に関する情報が含まれるかもしれない。リサーチは選挙運動戦略と計画をまとめる最初のステップである。
+- **調査** - 選挙運動がこの選挙に影響を与えるすべての情報を見つけ出すこと。これには選挙規則、地区、有権者、過去の選挙、今回の選挙、候補者、および有力な対立候補に関する情報が含まれるかもしれない。調査は選挙運動戦略と計画をまとめる最初のステップである。
 
 (political-campaign-planning-manual-ja-term-rule-of-finite-resources)=
 - **有限リソースの法則** - 何かを行うという決定は、他の何かを行わないという決定でもある。すべての選挙運動は、時間、資金、人というリソースが限られており、それらをどのように使用するかについて決定を下さなければならない。したがって、戦略を明記した書面による選挙運動計画を持つことが重要である。
