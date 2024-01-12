@@ -1,0 +1,141 @@
+<mxfile host="65bd71144e">
+    <diagram id="ptoPlsrCqgDLRDrU3V4A" name="Page-1">
+        <mxGraphModel dx="662" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" parent="1" source="18" target="20" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-30" y="130" as="sourcePoint"/>
+                        <mxPoint x="20" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#007FFF;endFill=1;" parent="1" source="18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="90" as="sourcePoint"/>
+                        <mxPoint x="280" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#007FFF;endFill=1;" parent="1" source="20" target="19" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="220" as="sourcePoint"/>
+                        <mxPoint x="300" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" parent="1" source="20" target="21" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="110" y="260" as="sourcePoint"/>
+                        <mxPoint x="120" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" parent="1" source="19" target="25" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="270" as="sourcePoint"/>
+                        <mxPoint x="360" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#007FFF;endFill=1;" parent="1" source="19" target="24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="259.5" as="sourcePoint"/>
+                        <mxPoint x="550" y="259.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" parent="1" source="25" target="26" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="290" as="sourcePoint"/>
+                        <mxPoint x="410" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#007FFF;endFill=1;" parent="1" source="25" target="22" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="290" as="sourcePoint"/>
+                        <mxPoint x="520" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="はい" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FF3333;fillColor=none;align=left;spacing=8;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="100" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="はい" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FF3333;fillColor=none;align=left;spacing=8;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="はい" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FF3333;fillColor=none;align=left;spacing=8;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="300" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="はい" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#FF3333;fillColor=none;align=center;spacing=8;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="130" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="いいえ" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#007FFF;fillColor=none;align=center;spacing=8;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="230" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="いいえ" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#007FFF;fillColor=none;align=center;spacing=8;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="30" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="いいえ" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#007FFF;fillColor=none;align=left;spacing=8;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="200" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="いいえ" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;fontColor=#007FFF;fillColor=none;align=center;spacing=8;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="330" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="あなたは日本国籍？" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="今は選挙運動期間？" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="240" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="今日は投票日？" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="140" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="投票日の活動" link="#election-day-activities" id="21">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#FFFFFF;strokeColor=#0066CC;glass=0;shadow=0;fontColor=#2a5adf;verticalAlign=middle;strokeWidth=2;fontStyle=4" parent="1" vertex="1">
+                        <mxGeometry x="280" y="140" width="180" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="選挙運動期間の活動" link="#campaign-season-activities" id="22">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#FFFFFF;strokeColor=#0066CC;glass=0;shadow=0;fontColor=#2a5adf;verticalAlign=middle;strokeWidth=2;fontStyle=4" parent="1" vertex="1">
+                        <mxGeometry x="280" y="340" width="180" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="政治活動" link="#political-activities" id="24">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#FFFFFF;strokeColor=#0066CC;glass=0;shadow=0;fontColor=#2a5adf;verticalAlign=middle;strokeWidth=2;fontStyle=4" parent="1" vertex="1">
+                        <mxGeometry x="280" y="240" width="180" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="25" value="あなたは未成年？" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="340" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <UserObject label="選挙運動期間の&lt;br style=&quot;font-size: 18px;&quot;&gt;政治活動" link="#campaign-season-political-activities" id="26">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#FFFFFF;strokeColor=#0066CC;glass=0;shadow=0;fontColor=#2a5adf;verticalAlign=middle;strokeWidth=2;fontStyle=4" parent="1" vertex="1">
+                        <mxGeometry x="40" y="440" width="180" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="27" value="START" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FF0000;rotation=-25;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="選挙調査" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="600" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="選挙運動目標設定" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="720" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="選挙調査結果" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=default;strokeColor=#999999;strokeWidth=2;fontColor=#000000;glass=0;shadow=0;dashed=1;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="600" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="選挙運動目標" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#999999;strokeWidth=2;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="720" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" edge="1" parent="1" source="28" target="30">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="180" as="sourcePoint"/>
+                        <mxPoint x="290" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;verticalAlign=middle;strokeWidth=3;strokeColor=#FF3333;endFill=1;" edge="1" parent="1" source="29" target="31">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="640" as="sourcePoint"/>
+                        <mxPoint x="290" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

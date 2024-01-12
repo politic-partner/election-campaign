@@ -70,6 +70,7 @@ html_js_files = [
 ]
 html_css_files = [
     'css/drawio.css',
+    'css/custom.css',
 ]
 
 html_title = '日本の選挙運動'
