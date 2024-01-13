@@ -20,6 +20,7 @@ github_repo = 'election-campaign'
 extensions = [
     'myst_parser',
     'sphinx_toolbox.collapse',
+    'sphinx_sitemap',
 ]
 
 templates_path = ['_templates']
@@ -60,6 +61,9 @@ myst_heading_anchors = 3
 myst_html_meta = {
 }
 
+# -- Options for sphinx_sitemap ---------------------------------------
+# https://sphinx-sitemap.readthedocs.io/en/latest/advanced-configuration.html
+sitemap_url_scheme = "{link}"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -73,7 +77,8 @@ html_css_files = [
     'css/custom.css',
 ]
 
-html_title = '日本の選挙運動'
+html_baseurl = f"https://{github_user}.github.io/{github_repo}/"
+html_title = "日本の選挙運動"
 
 html_theme = 'furo'
 html_theme_options = {
@@ -116,3 +121,7 @@ html_context = {
     'github_user': github_user,
     'github_repo': github_repo,
 }
+
+html_extra_path = [
+    "_site",
+]

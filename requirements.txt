@@ -1,4 +1,5 @@
 sphinx
 sphinx-toolbox
 myst-parser
+sphinx-sitemap
 furo
