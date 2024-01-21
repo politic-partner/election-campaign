@@ -1,4 +1,4 @@
-# Module 6: Message Development Creating Powerful and Persuasive Messages
+# Module 6: Message Development *Creating Powerful and Persuasive Messages*
 
 ## Introduction
 As the election approaches, your candidate is stopped on the street by a voter and asked to tell her why she should vote for your party.
@@ -26,16 +26,17 @@ Crafting and consistently using a compelling message is essential to persuading 
 This module covers the fundamentals of political communications: what is a political message, why having one is important, and how to come up with an authentic and compelling message that suits your candidate and/or political party.
 Topics covered include:
 
-1. Defining Your Campaign Narrative
-2. What is a Message?
-3. Know Your Audience
-4. The Challenge: Getting Heard
-5. Criteria for Effective Messages
-6. Developing Your Message
-7. Framing Policy Issues
-8. Testing Your Message
-9. Using the Message: Discipline and Repetition
+1. [Defining Your Campaign Narrative](#campaign-skills-handbook-en-module-6-defining-your-campaign-narrative)
+2. [What is a Message?](#campaign-skills-handbook-en-module-6-what-is-a-message)
+3. [Know Your Audience](#campaign-skills-handbook-en-module-6-know-your-audience)
+4. [The Challenge: Getting Heard](#campaign-skills-handbook-en-module-6-the-challenge-getting-heard)
+5. [Criteria for Effective Messages](#campaign-skills-handbook-en-module-6-criteria-for-effective-messages)
+6. [Developing Your Message](#campaign-skills-handbook-en-module-6-developing-your-message)
+7. [Framing Policy Issues](#campaign-skills-handbook-en-module-6-framing-policy-issues)
+8. [Testing Your Message](#campaign-skills-handbook-en-module-6-testing-your-message)
+9. [Using the Message: Discipline and Repetition](#campaign-skills-handbook-en-module-6-using-the-message-discipline-and-repetition)
 
+(campaign-skills-handbook-en-module-6-defining-your-campaign-narrative)=
 ## Defining Your Campaign Narrative
 Before you begin the work of developing your message, you must clearly define your campaign narrative.
 Your campaign narrative is the story that you tell about why you are in this election, what you value, and why you are the better choice.
@@ -88,6 +89,7 @@ Having a clear sense of what your narrative needs to be provides a solid foundat
 
 4. Identify experience or qualities that your candidate or political party has which would support your campaign narrative.
 
+(campaign-skills-handbook-en-module-6-what-is-a-message)=
 ## What is a Message?
 In its simplest form, a message is a statement of why someone should vote for a party or a candidate on Election Day.
 
@@ -209,6 +211,7 @@ Slogan
    What do you think works well with these messages?
    In the same situation, what might you do differently?
 
+(campaign-skills-handbook-en-module-6-know-your-audience)=
 ## Know Your Audience
 
 In most countries, there are millions of eligible voters, all of whom come from a wide variety of backgrounds.
@@ -274,6 +277,7 @@ Once you have created personas to represent your target audiences, the entire ca
 
 3. Illustrate the stick figures below to match your description of these personas.
 
+(campaign-skills-handbook-en-module-6-the-challenge-getting-heard)=
 ## The Challenge: Getting Heard
 
 Your targeted voters receive thousands of messages every day – from the news, entertainment media, commercial advertisers, family, friends, neighbors, billboards, posters, television, radio, etc.
@@ -321,7 +325,7 @@ This is why, if you have a chance to talk to these voters, you need to make sure
 It is for this reason that research and preparation are such important parts of your campaign.
 Voters in the base of the pyramid are not going to listen to you if you are not talking about issues that matter to them, which means they will not remember your message or recognize you on the ballot when and if they come out to vote.
 
-:::{image} Who-has-time-for-politics.jpg
+:::{image} who-has-time-for-politics.jpg
 :alt: Who has time for politics?...
 :width: 25 %
 :align: center
@@ -333,6 +337,7 @@ The best way to communicate effectively with these voters is to develop a messag
 You will also need to be very disciplined in how and when you integrate your message and repeat it in every communication.
 Incorporating message discipline into your communications is discussed in the final section of this workbook.
 
+(campaign-skills-handbook-en-module-6-criteria-for-effective-messages)=
 ## Criteria for Effective Messages
 
 A campaign will spend the majority of its resources getting the candidate or party's message out to targeted voters.
@@ -436,6 +441,7 @@ And wherever possible, your message should be validated by credible, external pe
 Only when you repeat it a hundred times will people start to form the link between your candidate, your ideas, and your message.
 If the message is not consistent and different people use different messages, voters will never know what you stand for and why they should vote for you.
 
+(campaign-skills-handbook-en-module-6-developing-your-message)=
 ## Developing Your Message
 Now, it's time to start constructing your own message, based on your narrative from Activity 1.
 This section will walk you through the building blocks to developing a strong message for your electoral campaign.
@@ -804,6 +810,7 @@ She can give examples of people she has fought for in the community and what she
    Why do you think this is the case?
    If you think your opponent currently has the stronger message or better contrast, what can you do to bolster your own message?
 
+(campaign-skills-handbook-en-module-6-framing-policy-issues)=
 ## Framing Policy Issues
 
 All campaigns need to incorporate policy issues into their message in one form or another.
@@ -918,6 +925,7 @@ In this example, Fatima uses the fact that she was active in a related field –
    Try one of the methods illustrated in this section.
    Either use the four-step process to framing a policy message (describe the problem, provide solutions to the problem, tell how you will implement these solutions and describe the urgency and the role voters can play in securing the desired outcome) or personalize it with your own story or that of others affected by the issue.
 
+(campaign-skills-handbook-en-module-6-testing-your-message)=
 ## Testing Your Message
 
 Would you buy a new car without ever testing it to see how well it runs and how it handles out on the road?
@@ -947,6 +955,7 @@ Even this kind of informal testing will help you strengthen your message.
    What groups of people do you need to recruit to get their feedback on your message?
    List at least three different groups of people below who you will recruit as focus groups to test your message.
 
+(campaign-skills-handbook-en-module-6-using-the-message-discipline-and-repetition)=
 ## Using the Message: Discipline and Repetition
 Voters today get a great deal of information from many sources: friends and family, television, billboards and signs, newspapers, radio, and the internet, to name a few.
 Because people are exposed to so many different messages, they often only remember messages after they have seen or heard them many times.
