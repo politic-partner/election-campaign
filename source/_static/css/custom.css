@@ -11,3 +11,7 @@ ul.style-none>li>ul {
 article {
 	line-height: 1.6;
 }
+
+table > tbody > tr > td {
+	vertical-align: top;
+}

@@ -1,3 +1,8 @@
 svg rect {
 	fill: var(--color-content-background);
 }
+
+svg {
+	display: block;
+	margin: auto;
+}

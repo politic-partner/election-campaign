@@ -20,6 +20,7 @@ github_repo = 'election-campaign'
 extensions = [
     'myst_parser',
     'sphinx_toolbox.collapse',
+    'sphinx.ext.imgconverter',
     'sphinx_sitemap',
 ]
 
