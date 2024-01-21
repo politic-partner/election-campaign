@@ -1,6 +1,7 @@
 # 参考文献
 ```{toctree}
 :hidden:
+campaign-skills-handbook/index
 political-campaign-planning-manual-en/index
 political-campaign-planning-manual-ja/index
 ```
