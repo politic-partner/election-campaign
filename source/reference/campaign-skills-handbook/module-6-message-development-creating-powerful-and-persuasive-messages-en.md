@@ -116,23 +116,35 @@ For example, if you are the party or candidate supporting job creation, what is 
 These three things – slogan, message, and policy platform – all complement one another, but they are not the same things.
 Consider the differences outlined below.
 
-Slogan
-:  - Very short
-   - Limited information
-   - Seen by all voters
-   - Designed to stick easily in people's memories
-
-Message
-:  - Short
+:::{list-table}
+:widths: 8 1 8 1 8
+:header-rows: 1
+*  - Slogan
+   -
+   - Message
+   -
+   - Platform
+*  - Very short
+   -
+   - Short
+   -
+   - Long
+*  - Limited information
+   -
    - Substantive
-   - Tailored to target voters
-   - Statement of purpose - why you deserve support
-
-Platform
-:  - Long
+   -
    - Comprehensive
+*  - Seen by all voters
+   -
+   - Tailored to target voters
+   -
    - Not many people read it
+*  - Designed to stick easily in people's memories
+   -
+   - Statement of purpose - why you deserve support
+   -
    - Statement of intention - policies you will pursue if elected
+:::
 
 To further illustrate what a message is and why it's such an important part of your campaign strategy, consider the case studies below.
 The first is an election in Ireland; the second comes from a presidential race in the United States.
@@ -197,11 +209,11 @@ Narrative
 :  The narrative was summarized with the catchphrase, "it's the economy, stupid," meaning that no matter what the issue was, nothing was more important than what was going on in the US economy.
 
 Message
-:  "After 12 years of Republican leadership resulting in social stagnation and economic recession, the American people are ready for a change.
+:  After 12 years of Republican leadership resulting in social stagnation and economic recession, the American people are ready for a change.
    The choice in 1992 is clear: "Change or more of the same?"
 
 Slogan
-:  "Change, or more of the same?"
+:  Change, or more of the same?
 
 ### Activity 2: Message
 1. What do you think makes a good campaign message?
@@ -229,12 +241,12 @@ If, instead, you try to offer a campaign message that speaks to everyone, it's l
 Although your message can be heard by everyone, the core elements of your message will be strategically aimed at your target voters.
 By focusing your efforts on specific subsets of the general population, you'll be able to connect with voters who are most likely to support you and reflect their particular needs and values.
 
-:::{admonition} Your campaign's communications should focus on your target audiences
-specific groups of people that you have identified as supporters or potential supporters.
+So if you aren't communicating with everyone, with whom exactly are you trying to communicate?
+
+:::{admonition} Focus on your target audiences
+Your campaign's communications should focus on your target audiences: specific groups of people that you have identified as supporters or potential supporters.
 :::
 
-So if you aren't communicating with everyone, with whom exactly are you trying to communicate?
-**Your campaign's communications should focus on your target audiences: specific groups of people that you have identified as supporters or potential supporters.**
 Before you embark on any communications planning or designing your message, it's vital to understand the wants, habits, preferences, and perspectives of these voters.[^5]
 
 [^5]: In order to complete the exercises in this section, advance work is required.
@@ -1037,14 +1049,14 @@ Message
    The policy he proposes is reactionary, cold-hearted, and blind to environmental concerns.
    And he wants to send our troops to a war in Iraq!
 
-   If you want our country to stay on the path of social and environmental reform, and if you want Joschka Fischer to remain our foreign minister, vote Green on 27 September!"[^8]
+   If you want our country to stay on the path of social and environmental reform, and if you want Joschka Fischer to remain our foreign minister, vote Green on 27 September![^8]
 [^8]: Green European Foundation, Campaign Handbook, <http://campaignhandbook.gef.eu/campaign-messages/>, accessed 23 April 2014.
 
 Slogan
-:  "Green works!"
+:  Green works!
 
 
-#### Case Study 4 – Bill Clinton and the Democratic Party[^9]
+### Case Study 4 – Bill Clinton and the Democratic Party[^9]
 [^9]: Edits from Clinton's speech accepting the party's nomination as candidate for president at the 1996 Democratic convention can be found the following link.
       This is an excellent example of message discipline and the value of repetition as well.
       <http://www.youtube.com/watch?v=oZh9qiD1BK4>
